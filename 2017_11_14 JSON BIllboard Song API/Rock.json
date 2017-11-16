@@ -1,0 +1,1745 @@
+ [
+  {
+  "song_id": "23",
+  "song_name": "Rocket Man",
+  "artist_id": "301679",
+  "display_artist": "Elton John",
+  "spotify_id": "7GqKRV0pbiDrKmhu8D55JH"
+  },
+  {
+  "song_id": "135",
+  "song_name": "Rock-in Robin",
+  "artist_id": "294565",
+  "display_artist": "Bobby Day",
+  "spotify_id": "53MkmSqmBa6s2b0Q9Zvg1C"
+  },
+  {
+  "song_id": "217",
+  "song_name": "Chariot Rock",
+  "artist_id": "392064",
+  "display_artist": "The Champs",
+  "spotify_id": "5AZqt1llQBZgRCcT5UFQRy"
+  },
+  {
+  "song_id": "279",
+  "song_name": "Mexican Hat Rock",
+  "artist_id": "380677",
+  "display_artist": "The Applejacks",
+  "spotify_id": "5V2ryy8KIG7bM1ZTHUz3Sv"
+  },
+  {
+  "song_id": "288",
+  "song_name": "This Little Girl's Gone Rockin'",
+  "artist_id": "369333",
+  "display_artist": "Ruth Brown",
+  "spotify_id": "3gd3Eu7AEqJC1wcNx8P8xg"
+  },
+  {
+  "song_id": "310",
+  "song_name": "Bullwhip Rock",
+  "artist_id": "299870",
+  "display_artist": "Cyclones",
+  "spotify_id": "3BbWoQcdCY43PLH1I9EC1s"
+  },
+  {
+  "song_id": "365",
+  "song_name": "Sweet Little Rock And Roller",
+  "artist_id": "299294",
+  "display_artist": "Chuck Berry",
+  "spotify_id": "3gFGMtWrMO2fzbRa37Atcw"
+  },
+  {
+  "song_id": "430",
+  "song_name": "Jingle Bell Rock",
+  "artist_id": "294708",
+  "display_artist": "Bobby Helms",
+  "spotify_id": "2s50afJwZFxf6pPZSpkTBu"
+  },
+  {
+  "song_id": "432",
+  "song_name": "Rocka-Conga",
+  "artist_id": "380677",
+  "display_artist": "The Applejacks",
+  "spotify_id": "0GLrPJSwT0BgiyAEWqNRs9"
+  },
+  {
+  "song_id": "437",
+  "song_name": "Rockhouse (Part 2)",
+  "artist_id": "364670",
+  "display_artist": "Ray Charles and his Orchestra",
+  "spotify_id": null
+  },
+  {
+  "song_id": "472",
+  "song_name": "Good Rockin' Tonight",
+  "artist_id": "327597",
+  "display_artist": "Pat Boone",
+  "spotify_id": "6N0QQSigGuQsMMdVuklS2C"
+  },
+  {
+  "song_id": "587",
+  "song_name": "Rockin' Crickets",
+  "artist_id": "414942",
+  "display_artist": "Hot-Toddys featuring Bill Pennell",
+  "spotify_id": null
+  },
+  {
+  "song_id": "671",
+  "song_name": "Bongo Rock",
+  "artist_id": "349393",
+  "display_artist": "Preston Epps",
+  "spotify_id": "4b2IIaqipON8XCo0S3BEqx"
+  },
+  {
+  "song_id": "767",
+  "song_name": "Rockin' In The Jungle",
+  "artist_id": "404253",
+  "display_artist": "The Eternals",
+  "spotify_id": "1I87x6RgPCRAxinjcoS8DR"
+  },
+  {
+  "song_id": "792",
+  "song_name": "Red River Rock",
+  "artist_id": "305047",
+  "display_artist": "Johnny And The Hurricanes",
+  "spotify_id": "1b08tLn9PpvFQf7VblbNtN"
+  },
+  {
+  "song_id": "940",
+  "song_name": "Reveille Rock",
+  "artist_id": "305047",
+  "display_artist": "Johnny And The Hurricanes",
+  "spotify_id": "1Cq7Z1u4z11ToKrQrYFpdC"
+  },
+  {
+  "song_id": "1027",
+  "song_name": "Rockin' Little Angel",
+  "artist_id": "1531595",
+  "display_artist": "Ray Smith",
+  "spotify_id": "6R1FvRO3sAh7mvfR49kqku"
+  },
+  {
+  "song_id": "1070",
+  "song_name": "Let It Rock",
+  "artist_id": "299294",
+  "display_artist": "Chuck Berry",
+  "spotify_id": "6dA9OR1MrsVUBQJLXfecLh"
+  },
+  {
+  "song_id": "1169",
+  "song_name": "Rockin' Red Wing",
+  "artist_id": "278032",
+  "display_artist": "Sammy Masters",
+  "spotify_id": "0Ab7587aQoMuh3GcK6zksG"
+  },
+  {
+  "song_id": "1244",
+  "song_name": "A Rockin' Good Way (To Mess Around And Fall In Love)",
+  "artist_id": null,
+  "display_artist": "Dinah Washington & Brook Benton",
+  "spotify_id": "6H8M8oMiheCp9ewSKVHNvM"
+  },
+  {
+  "song_id": "1422",
+  "song_name": "Rocking Goose",
+  "artist_id": "305047",
+  "display_artist": "Johnny And The Hurricanes",
+  "spotify_id": "0tiKu5j1fAKPZzUHoLL20t"
+  },
+  {
+  "song_id": "1572",
+  "song_name": "Rockin', Rollin' Ocean",
+  "artist_id": "276382",
+  "display_artist": "Hank Snow",
+  "spotify_id": "69XcX20af4o7ekzmToWwtP"
+  },
+  {
+  "song_id": "1574",
+  "song_name": "Rockin' Around The Christmas Tree",
+  "artist_id": "297111",
+  "display_artist": "Brenda Lee",
+  "spotify_id": "1PPEVFT0BYIGFBX6y4idZF"
+  },
+  {
+  "song_id": "2161",
+  "song_name": "Rock-A-Bye Your Baby With A Dixie Melody",
+  "artist_id": "279868",
+  "display_artist": "Aretha Franklin",
+  "spotify_id": "19ZZ3suTu3oGKDQsPO15Ei"
+  },
+  {
+  "song_id": "2174",
+  "song_name": "Rockin' Bicycle",
+  "artist_id": "302037",
+  "display_artist": "Fats Domino",
+  "spotify_id": "5IrZf9qOmpjIrJbQEox4ic"
+  },
+  {
+  "song_id": "2252",
+  "song_name": "Rock-A-Hula Baby",
+  "artist_id": "301690",
+  "display_artist": "Elvis Presley With The Jordanaires",
+  "spotify_id": "6oqbrMvP5sOnWoCLgpc1WS"
+  },
+  {
+  "song_id": "2267",
+  "song_name": "Jingle Bell Rock",
+  "artist_id": null,
+  "display_artist": "Bobby Rydell/Chubby Checker",
+  "spotify_id": "73j12oKulLAANWI5LMmJQN"
+  },
+  {
+  "song_id": "2402",
+  "song_name": "Nut Rocker",
+  "artist_id": "275447",
+  "display_artist": "B. Bumble & The Stingers",
+  "spotify_id": "3wH1Y1MQ4CzxDvn8XSEjyW"
+  },
+  {
+  "song_id": "2567",
+  "song_name": "Limbo Rock",
+  "artist_id": "392064",
+  "display_artist": "The Champs",
+  "spotify_id": "3C2YX1VZqb6uyEmSRCeDq0"
+  },
+  {
+  "song_id": "2749",
+  "song_name": "Limbo Rock",
+  "artist_id": "299292",
+  "display_artist": "Chubby Checker",
+  "spotify_id": "1cEdvmuJOV4zodenIxaSu7"
+  },
+  {
+  "song_id": "2863",
+  "song_name": "If You Were A Rock And Roll Record",
+  "artist_id": "302456",
+  "display_artist": "Freddy Cannon",
+  "spotify_id": "7pEgJBtkJz8gcrRfuoASMv"
+  },
+  {
+  "song_id": "3158",
+  "song_name": "If You Can't Rock Me",
+  "artist_id": "365052",
+  "display_artist": "Ricky Nelson",
+  "spotify_id": "7a4R558RKxLBSIB1obYnP4"
+  },
+  {
+  "song_id": "3175",
+  "song_name": "Rockin' Crickets",
+  "artist_id": "419002",
+  "display_artist": "Rockin' Rebels",
+  "spotify_id": "2uLNcaBpiOFHHE4YuMLlVd"
+  },
+  {
+  "song_id": "3292",
+  "song_name": "Rock Me In The Cradle Of Love",
+  "artist_id": "300659",
+  "display_artist": "Dee Dee Sharp",
+  "spotify_id": "0v1lcmxKiEwhjFxeuK02EM"
+  },
+  {
+  "song_id": "3879",
+  "song_name": "Rock Me Baby",
+  "artist_id": "275459",
+  "display_artist": "B.B. King",
+  "spotify_id": "5xEbtYreNSZsHjXOPvWzhj"
+  },
+  {
+  "song_id": "3976",
+  "song_name": "Oh, Rock My Soul (Part I)",
+  "artist_id": "331058",
+  "display_artist": "Peter, Paul & Mary",
+  "spotify_id": null
+  },
+  {
+  "song_id": "4119",
+  "song_name": "Rockin' Robin",
+  "artist_id": "1540618",
+  "display_artist": "The Rivieras",
+  "spotify_id": "1c0R9Natx08OuYJv3IlS49"
+  },
+  {
+  "song_id": "4559",
+  "song_name": "Reelin' And Rockin'",
+  "artist_id": "398795",
+  "display_artist": "The Dave Clark Five",
+  "spotify_id": null
+  },
+  {
+  "song_id": "4880",
+  "song_name": "Take Me In Your Arms (Rock Me A Little While)",
+  "artist_id": "305889",
+  "display_artist": "Kim Weston",
+  "spotify_id": "7tSdHtne5MkZZqPdpDsp0r"
+  },
+  {
+  "song_id": "5297",
+  "song_name": "I Am A Rock",
+  "artist_id": "279369",
+  "display_artist": "Simon & Garfunkel",
+  "spotify_id": "30gUUK7Vwn9W5sWViA80bb"
+  },
+  {
+  "song_id": "5827",
+  "song_name": "So You Want To Be A Rock 'N' Roll Star",
+  "artist_id": "390433",
+  "display_artist": "The Byrds",
+  "spotify_id": "5kRWy6ZEQZjff6phUPKR1d"
+  },
+  {
+  "song_id": "6152",
+  "song_name": "Don't Rock The Boat",
+  "artist_id": "276103",
+  "display_artist": "Eddie Floyd",
+  "spotify_id": "3hwIo04AK1DFAC1NXxNWlE"
+  },
+  {
+  "song_id": "6244",
+  "song_name": "I Dig Rock And Roll Music",
+  "artist_id": "331058",
+  "display_artist": "Peter, Paul & Mary",
+  "spotify_id": "5pDM1xfBg3IL1yMvroLW88"
+  },
+  {
+  "song_id": "6332",
+  "song_name": "Rock 'N' Roll Woman",
+  "artist_id": "298504",
+  "display_artist": "The Buffalo Springfield",
+  "spotify_id": null
+  },
+  {
+  "song_id": "6690",
+  "song_name": "Cinderella Rockefella",
+  "artist_id": "301902",
+  "display_artist": "Esther & Abi Ofarim",
+  "spotify_id": "3lczEiwuqzz0zZd6Yov9Ft"
+  },
+  {
+  "song_id": "6831",
+  "song_name": "The Story Of Rock And Roll",
+  "artist_id": "419326",
+  "display_artist": "The Turtles",
+  "spotify_id": "6o8VXcbQThOEPRVoU36eYa"
+  },
+  {
+  "song_id": "6945",
+  "song_name": "Bring Back Those Rockabye Baby Days",
+  "artist_id": "430012",
+  "display_artist": "Tiny Tim",
+  "spotify_id": "10llQmNEkgJZ66kWH8EFS8"
+  },
+  {
+  "song_id": "7105",
+  "song_name": "Rockin' In The Same Old Boat",
+  "artist_id": "294173",
+  "display_artist": "Bobby Bland",
+  "spotify_id": "0aWQ4fibEK2TribBt9Xuyr"
+  },
+  {
+  "song_id": "7298",
+  "song_name": "Rock Me",
+  "artist_id": "280528",
+  "display_artist": "Steppenwolf",
+  "spotify_id": "5os6mvXLYS4nNhQ87BKCu0"
+  },
+  {
+  "song_id": "7524",
+  "song_name": "Good Old Rock 'N Roll",
+  "artist_id": "298803",
+  "display_artist": "Cat Mother & the All Night News Boys",
+  "spotify_id": null
+  },
+  {
+  "song_id": "7836",
+  "song_name": "Alice's Rock & Roll Restaurant",
+  "artist_id": "279917",
+  "display_artist": "Arlo Guthrie",
+  "spotify_id": null
+  },
+  {
+  "song_id": "7964",
+  "song_name": "Rock Island Line",
+  "artist_id": "305054",
+  "display_artist": "Johnny Cash",
+  "spotify_id": "4dzu2Ril2aaDjX08MiwxGU"
+  },
+  {
+  "song_id": "8177",
+  "song_name": "Overture From Tommy (A Rock Opera)",
+  "artist_id": "381321",
+  "display_artist": "The Assembled Multitude",
+  "spotify_id": null
+  },
+  {
+  "song_id": "8327",
+  "song_name": "God, Love And Rock & Roll",
+  "artist_id": "372947",
+  "display_artist": "Teegarden & Van Winkle",
+  "spotify_id": null
+  },
+  {
+  "song_id": "8383",
+  "song_name": "Don't Try To Lay No Boogie Woogie On The King Of Rock & Roll",
+  "artist_id": "1487776",
+  "display_artist": "CROW",
+  "spotify_id": null
+  },
+  {
+  "song_id": "8560",
+  "song_name": "Medley From Superstar (A Rock Opera)",
+  "artist_id": "381321",
+  "display_artist": "The Assembled Multitude",
+  "spotify_id": null
+  },
+  {
+  "song_id": "8891",
+  "song_name": "Don't Try To Lay No Boogie-Woogie On The King Of Rock And Roll",
+  "artist_id": null,
+  "display_artist": "John Baldry",
+  "spotify_id": "5GB4SXiW2xP20fVaeRv95S"
+  },
+  {
+  "song_id": "9005",
+  "song_name": "Rock Steady",
+  "artist_id": "279868",
+  "display_artist": "Aretha Franklin",
+  "spotify_id": "6zttKhN0rUFfAOzn4HctNU"
+  },
+  {
+  "song_id": "9100",
+  "song_name": "Keep Playin' That Rock 'N' Roll",
+  "artist_id": "301451",
+  "display_artist": "Edgar Winter's White Trash",
+  "spotify_id": "6xyA3dyXzbyme6pDyuG8zG"
+  },
+  {
+  "song_id": "9123",
+  "song_name": "Baby Won't You Let Me Rock 'N Roll You",
+  "artist_id": "374367",
+  "display_artist": "Ten Years After",
+  "spotify_id": "03Uh0L2FvRO4CPySASfg4I"
+  },
+  {
+  "song_id": "9128",
+  "song_name": "Rock & Roll Stew...Part 1",
+  "artist_id": "430346",
+  "display_artist": "Traffic",
+  "spotify_id": null
+  },
+  {
+  "song_id": "9173",
+  "song_name": "Rock And Roll Lullaby",
+  "artist_id": "275479",
+  "display_artist": "B.J. Thomas",
+  "spotify_id": "1rNKpa4qqWYKIndyl3FaGt"
+  },
+  {
+  "song_id": "9213",
+  "song_name": "Rock Me On The Water",
+  "artist_id": "307401",
+  "display_artist": "Linda Ronstadt",
+  "spotify_id": "50DGEghpwDFdZovHi0nz7K"
+  },
+  {
+  "song_id": "9218",
+  "song_name": "Rockin' Robin",
+  "artist_id": "310778",
+  "display_artist": "Michael Jackson",
+  "spotify_id": "0XFRGKNOzBElJCR3lz1NX0"
+  },
+  {
+  "song_id": "9229",
+  "song_name": "Rock And Roll",
+  "artist_id": "306805",
+  "display_artist": "Led Zeppelin",
+  "spotify_id": "7qa9HQT4oZNMcgt2pUoVbW"
+  },
+  {
+  "song_id": "9237",
+  "song_name": "Rockin' With The King",
+  "artist_id": "298632",
+  "display_artist": "Canned Heat",
+  "spotify_id": "0480upMLw8JIb9IBBUouYK"
+  },
+  {
+  "song_id": "9238",
+  "song_name": "Nutrocker",
+  "artist_id": "301702",
+  "display_artist": "Emerson, Lake & Palmer",
+  "spotify_id": "6YVuU35PQ9cLUGSSPBBCX4"
+  },
+  {
+  "song_id": "9336",
+  "song_name": "Rock And Roll Crazies",
+  "artist_id": null,
+  "display_artist": "Stephen Stills-Manassas",
+  "spotify_id": null
+  },
+  {
+  "song_id": "9343",
+  "song_name": "Rock And Roll Part 2",
+  "artist_id": "302611",
+  "display_artist": "Gary Glitter",
+  "spotify_id": "5l3U7ttZMFrbE4gVKNzhvZ"
+  },
+  {
+  "song_id": "9359",
+  "song_name": "Rock Me On The Water",
+  "artist_id": "304006",
+  "display_artist": "Jackson Browne",
+  "spotify_id": "1NgZJdYTLwmqbjJDnr3GQK"
+  },
+  {
+  "song_id": "9409",
+  "song_name": "Rock Me Baby",
+  "artist_id": "300412",
+  "display_artist": "David Cassidy",
+  "spotify_id": "3V5sEfoOofKDWn5sMM3Yx1"
+  },
+  {
+  "song_id": "9436",
+  "song_name": "Rock 'N Roll Soul",
+  "artist_id": "303074",
+  "display_artist": "Grand Funk Railroad",
+  "spotify_id": "3VqLCXw2Fw9V7PxjwSCh9U"
+  },
+  {
+  "song_id": "9447",
+  "song_name": "If You Can Beat Me Rockin' (You Can Have My Chair)",
+  "artist_id": "306622",
+  "display_artist": "Laura Lee",
+  "spotify_id": "1PegQ8qieyhFhy3Fqa0Ulr"
+  },
+  {
+  "song_id": "9455",
+  "song_name": "Rockin' Pneumonia - Boogie Woogie Flu",
+  "artist_id": "305097",
+  "display_artist": "Johnny Rivers",
+  "spotify_id": "7sQWTooMlPEmpcYhE2OirG"
+  },
+  {
+  "song_id": "9496",
+  "song_name": "I Didn't Know I Loved You (Till I Saw You Rock And Roll)",
+  "artist_id": "302611",
+  "display_artist": "Gary Glitter",
+  "spotify_id": "3uO3wFo9MHpqVf1toJkbaV"
+  },
+  {
+  "song_id": "9532",
+  "song_name": "Rocky Mountain High",
+  "artist_id": "304931",
+  "display_artist": "John Denver",
+  "spotify_id": "0DjMhBt7aGjrbboFQeGYeG"
+  },
+  {
+  "song_id": "9549",
+  "song_name": "Reelin' & Rockin'",
+  "artist_id": "299294",
+  "display_artist": "Chuck Berry",
+  "spotify_id": "2smJHcKJ61IPYWcpzFucjc"
+  },
+  {
+  "song_id": "9556",
+  "song_name": "Crocodile Rock",
+  "artist_id": "301679",
+  "display_artist": "Elton John",
+  "spotify_id": "5cmIWIBxZj9HpqrVtj4KWG"
+  },
+  {
+  "song_id": "9630",
+  "song_name": "I'm Just A Singer (In A Rock And Roll Band)",
+  "artist_id": "300750",
+  "display_artist": "The Moody Blues",
+  "spotify_id": "19RSuTelC3MDURgeDVGHae"
+  },
+  {
+  "song_id": "9713",
+  "song_name": "Mama Was A Rock And Roll Singer, Papa Used To Write All Her Songs Part 1",
+  "artist_id": "279823",
+  "display_artist": "Sonny & Cher",
+  "spotify_id": null
+  },
+  {
+  "song_id": "9873",
+  "song_name": "Bongo Rock",
+  "artist_id": "303772",
+  "display_artist": "The Incredible Bongo Band",
+  "spotify_id": null
+  },
+  {
+  "song_id": "9887",
+  "song_name": "Loves Me Like A Rock",
+  "artist_id": null,
+  "display_artist": "Paul Simon (with The Dixie Hummingbirds)",
+  "spotify_id": null
+  },
+  {
+  "song_id": "9906",
+  "song_name": "Rocky Mountain Way",
+  "artist_id": "304854",
+  "display_artist": "Joe Walsh",
+  "spotify_id": "6Pa1NQGHUceBVf0ygeC4wa"
+  },
+  {
+  "song_id": "9962",
+  "song_name": "Raised On Rock/For Ol' Times Sake",
+  "artist_id": "301690",
+  "display_artist": "Elvis Presley",
+  "spotify_id": "2UpAYqqoyCnsc9ijvDG5XA"
+  },
+  {
+  "song_id": "9998",
+  "song_name": "Rockin' Roll Baby",
+  "artist_id": "419220",
+  "display_artist": "The Stylistics",
+  "spotify_id": "2ugy2xk5O7RAlzi6XM0aZe"
+  },
+  {
+  "song_id": "10032",
+  "song_name": "Rock 'N Roll (I Gave You The Best Years of My Life)",
+  "artist_id": null,
+  "display_artist": "Kevin Johnson",
+  "spotify_id": null
+  },
+  {
+  "song_id": "10033",
+  "song_name": "Rock On",
+  "artist_id": "300432",
+  "display_artist": "David Essex",
+  "spotify_id": "7aMLQavs9eIki5fllOn4sx"
+  },
+  {
+  "song_id": "10072",
+  "song_name": "I'm A Rocker",
+  "artist_id": "418933",
+  "display_artist": "Raspberries",
+  "spotify_id": "2EMyKNcrAdWBb35xxQgB37"
+  },
+  {
+  "song_id": "10121",
+  "song_name": "Rock And Roll, Hoochie Koo",
+  "artist_id": "365024",
+  "display_artist": "Rick Derringer",
+  "spotify_id": "2RXaj2p572RlZUiIqolYKI"
+  },
+  {
+  "song_id": "10199",
+  "song_name": "Rock Around The Clock",
+  "artist_id": "282432",
+  "display_artist": "Bill Haley And His Comets",
+  "spotify_id": "3cB8xwnu5juSgKaUamWjEh"
+  },
+  {
+  "song_id": "10282",
+  "song_name": "Rock And Roll Heaven",
+  "artist_id": "418985",
+  "display_artist": "The Righteous Brothers",
+  "spotify_id": "160WtfT9YFSzZVNQKwrvte"
+  },
+  {
+  "song_id": "10283",
+  "song_name": "Rock The Boat",
+  "artist_id": "303675",
+  "display_artist": "The Hues Corporation",
+  "spotify_id": "4jWoqT4YPGgsUSPC83pd8h"
+  },
+  {
+  "song_id": "10298",
+  "song_name": "Rock Your Baby",
+  "artist_id": "302746",
+  "display_artist": "George McCrae",
+  "spotify_id": "5MCpdJawYOuGRVui6zP8qx"
+  },
+  {
+  "song_id": "10308",
+  "song_name": "The Golden Age Of Rock 'n' Roll",
+  "artist_id": "311853",
+  "display_artist": "Mott The Hoople",
+  "spotify_id": "7Aqbar4xmRyD5CnKLgnVZs"
+  },
+  {
+  "song_id": "10328",
+  "song_name": "Rock Me Gently",
+  "artist_id": "279193",
+  "display_artist": "Andy Kim",
+  "spotify_id": "2qh2VGAOYFXLsMbdATRf6w"
+  },
+  {
+  "song_id": "10387",
+  "song_name": "It's Only Rock 'N Roll (But I Like It)",
+  "artist_id": "419005",
+  "display_artist": "The Rolling Stones",
+  "spotify_id": "6vGcmVKcue8DaKTQbQ8fwN"
+  },
+  {
+  "song_id": "10430",
+  "song_name": "Life Is A Rock (But The Radio Rolled Me)",
+  "artist_id": "364892",
+  "display_artist": "Reunion",
+  "spotify_id": "0QhrOgpF2BaqHOLoLypBku"
+  },
+  {
+  "song_id": "10475",
+  "song_name": "Rockin' Soul",
+  "artist_id": "303675",
+  "display_artist": "The Hues Corporation",
+  "spotify_id": null
+  },
+  {
+  "song_id": "10559",
+  "song_name": "Rock N' Roll (I Gave You The Best Years Of My Life)",
+  "artist_id": "276895",
+  "display_artist": "Mac Davis",
+  "spotify_id": "2K1d632SYsYwt8SMYE9V2L"
+  },
+  {
+  "song_id": "10563",
+  "song_name": "Rock 'N' Roll (I Gave You The Best Years Of My Life)",
+  "artist_id": "376088",
+  "display_artist": "Terry Jacks",
+  "spotify_id": null
+  },
+  {
+  "song_id": "10638",
+  "song_name": "Good Times, Rock & Roll",
+  "artist_id": "302208",
+  "display_artist": "Flash Cadillac And The Continental Kids",
+  "spotify_id": "4wevltiDiB1uZk3qVIglPu"
+  },
+  {
+  "song_id": "10772",
+  "song_name": "Take Me In Your Arms (Rock Me)",
+  "artist_id": "401539",
+  "display_artist": "The Doobie Brothers",
+  "spotify_id": "6IsXpp9Lv61QmHGCOmWjxZ"
+  },
+  {
+  "song_id": "10792",
+  "song_name": "Rockin' Chair",
+  "artist_id": "303278",
+  "display_artist": "Gwen McCrae",
+  "spotify_id": "0DDMycg61CG2FhiwOKyWkW"
+  },
+  {
+  "song_id": "10798",
+  "song_name": "The Rockford Files",
+  "artist_id": "311216",
+  "display_artist": "Mike Post",
+  "spotify_id": "5ZX5pIdGQaeHxtHHe7v6ku"
+  },
+  {
+  "song_id": "10800",
+  "song_name": "Rock And Roll All Nite",
+  "artist_id": "305964",
+  "display_artist": "Kiss",
+  "spotify_id": null
+  },
+  {
+  "song_id": "10823",
+  "song_name": "Dixie Rock",
+  "artist_id": "431293",
+  "display_artist": "Wet Willie",
+  "spotify_id": "7dANjnnwmtUSwF25J4MrzZ"
+  },
+  {
+  "song_id": "10903",
+  "song_name": "Rocky",
+  "artist_id": "280265",
+  "display_artist": "Austin Roberts",
+  "spotify_id": "1E6CnnxVzKJTmf5p5XMK04"
+  },
+  {
+  "song_id": "10910",
+  "song_name": "Rock & Roll Runaway",
+  "artist_id": "277931",
+  "display_artist": "Ace",
+  "spotify_id": null
+  },
+  {
+  "song_id": "10971",
+  "song_name": "Rockin' All Over The World",
+  "artist_id": "304939",
+  "display_artist": "John Fogerty",
+  "spotify_id": "11JMy7cb6sRj3QgH9a5yyH"
+  },
+  {
+  "song_id": "10996",
+  "song_name": "Help Me Make It (To My Rockin' Chair)",
+  "artist_id": "275479",
+  "display_artist": "B.J. Thomas",
+  "spotify_id": null
+  },
+  {
+  "song_id": "11001",
+  "song_name": "Rockin' And Rollin' On The Streets Of Hollywood",
+  "artist_id": "298497",
+  "display_artist": "Buddy Miles",
+  "spotify_id": null
+  },
+  {
+  "song_id": "11054",
+  "song_name": "Venus And Mars Rock Show",
+  "artist_id": "431466",
+  "display_artist": "Wings",
+  "spotify_id": "3jKHZR8ZbY6LB2gZAOHbYi"
+  },
+  {
+  "song_id": "11077",
+  "song_name": "Rock And Roll All Nite (live)",
+  "artist_id": "305964",
+  "display_artist": "Kiss",
+  "spotify_id": null
+  },
+  {
+  "song_id": "11192",
+  "song_name": "Scotch On The Rocks",
+  "artist_id": null,
+  "display_artist": "The Band Of The Black Watch",
+  "spotify_id": "6meINa64y8nyzT5Ysks1Ga"
+  },
+  {
+  "song_id": "11274",
+  "song_name": "There Won't Be No Country Music (There Won't Be No Rock 'N' Roll)",
+  "artist_id": "275714",
+  "display_artist": "C.W. McCall",
+  "spotify_id": "2fI2sJoqmftnGJi5tC1pyT"
+  },
+  {
+  "song_id": "11322",
+  "song_name": "Rock And Roll Love Letter",
+  "artist_id": "280800",
+  "display_artist": "Bay City Rollers",
+  "spotify_id": "2pgHguv26ogxgeJ7L7ljnh"
+  },
+  {
+  "song_id": "11374",
+  "song_name": "Rock And Roll Music",
+  "artist_id": "383448",
+  "display_artist": "The Beach Boys",
+  "spotify_id": "0qbVccbQLEMbfJcI5wNLTJ"
+  },
+  {
+  "song_id": "11416",
+  "song_name": "Roots, Rock, Reggae",
+  "artist_id": "293509",
+  "display_artist": "Bob Marley And The Wailers",
+  "spotify_id": "7mv0sLCV4hL1vUt56oGTLz"
+  },
+  {
+  "song_id": "11446",
+  "song_name": "Rock Creek Park",
+  "artist_id": "385378",
+  "display_artist": "The Blackbyrds",
+  "spotify_id": "6XN8bM4WMBdzSM76gLoEGN"
+  },
+  {
+  "song_id": "11449",
+  "song_name": "Rocky Mountain Music",
+  "artist_id": "301424",
+  "display_artist": "Eddie Rabbitt",
+  "spotify_id": "3373VKGKgKdlBHccBgh645"
+  },
+  {
+  "song_id": "11476",
+  "song_name": "Rock'n Me",
+  "artist_id": "280638",
+  "display_artist": "Steve Miller",
+  "spotify_id": "2luzxyVgeKvene3XtzUcQk"
+  },
+  {
+  "song_id": "11503",
+  "song_name": "Let's Rock",
+  "artist_id": null,
+  "display_artist": "Ellison Chase",
+  "spotify_id": null
+  },
+  {
+  "song_id": "11506",
+  "song_name": "Beth/Detroit Rock City",
+  "artist_id": "305964",
+  "display_artist": "Kiss",
+  "spotify_id": "1cPXOzyeZauSAsT1yy7aBp"
+  },
+  {
+  "song_id": "11545",
+  "song_name": "A Dose Of Rock 'N' Roll",
+  "artist_id": "365074",
+  "display_artist": "Ringo Starr",
+  "spotify_id": "1g24LmZ5xzNyoh5vQkqGGU"
+  },
+  {
+  "song_id": "11672",
+  "song_name": "Hail! Hail! Rock And Roll!",
+  "artist_id": "280358",
+  "display_artist": "Starland Vocal Band",
+  "spotify_id": "1q2H04MDnxFcDJ7Kcp1RBX"
+  },
+  {
+  "song_id": "11744",
+  "song_name": "Theme From Rocky (gonna Fly Now)",
+  "artist_id": "364944",
+  "display_artist": "Rhythm Heritage",
+  "spotify_id": null
+  },
+  {
+  "song_id": "11782",
+  "song_name": "Rock And Roll Star",
+  "artist_id": null,
+  "display_artist": "Champagne",
+  "spotify_id": null
+  },
+  {
+  "song_id": "11820",
+  "song_name": "Gonna Fly Now (Theme From Rocky)",
+  "artist_id": "310233",
+  "display_artist": "Maynard Ferguson",
+  "spotify_id": null
+  },
+  {
+  "song_id": "11834",
+  "song_name": "Theme From Rocky (Gonna Fly Now)",
+  "artist_id": null,
+  "display_artist": "Current",
+  "spotify_id": null
+  },
+  {
+  "song_id": "11869",
+  "song_name": "So High (rock Me Baby And Roll Me Away)",
+  "artist_id": "300377",
+  "display_artist": "Dave Mason",
+  "spotify_id": "2cx5BLuKJhwt50rWQjQrKA"
+  },
+  {
+  "song_id": "11918",
+  "song_name": "Sheena Is A Punk Rocker",
+  "artist_id": "359662",
+  "display_artist": "The Ramones",
+  "spotify_id": "0YtWcn3sML3TB8Wo4qcKd0"
+  },
+  {
+  "song_id": "11924",
+  "song_name": "Rock And Roll Never Forgets",
+  "artist_id": "293790",
+  "display_artist": "Bob Seger",
+  "spotify_id": null
+  },
+  {
+  "song_id": "11937",
+  "song_name": "That's Rock 'N' Roll",
+  "artist_id": "278967",
+  "display_artist": "Shaun Cassidy",
+  "spotify_id": "2N9H7FMPSU5W1A7WxpVLeO"
+  },
+  {
+  "song_id": "11940",
+  "song_name": "Hard Rock Cafe",
+  "artist_id": "298738",
+  "display_artist": "Carole King",
+  "spotify_id": "5DGZEUC1PZrOxRZc6YSshW"
+  },
+  {
+  "song_id": "12002",
+  "song_name": "My Own Way To Rock",
+  "artist_id": "298550",
+  "display_artist": "Burton Cummings",
+  "spotify_id": "40ExxEf44HPz7yWKgZvEQo"
+  },
+  {
+  "song_id": "12059",
+  "song_name": "We Will Rock You/We Are The Champions",
+  "artist_id": "277241",
+  "display_artist": "Queen",
+  "spotify_id": "5C1N0wFUhhj5FgGKmfVdxy"
+  },
+  {
+  "song_id": "12109",
+  "song_name": "Rockaway Beach",
+  "artist_id": "359662",
+  "display_artist": "Ramones",
+  "spotify_id": "3Mgc6hFpByowXDImggLF8S"
+  },
+  {
+  "song_id": "12195",
+  "song_name": "Rocket Ride",
+  "artist_id": "305964",
+  "display_artist": "Kiss",
+  "spotify_id": null
+  },
+  {
+  "song_id": "12374",
+  "song_name": "A Rock 'N' Roll Fantasy",
+  "artist_id": "418472",
+  "display_artist": "The Kinks",
+  "spotify_id": "6A1o7ejm0hxr6coe5VVSBg"
+  },
+  {
+  "song_id": "12667",
+  "song_name": "Rock 'n' Roll Fantasy",
+  "artist_id": "280442",
+  "display_artist": "Bad Company",
+  "spotify_id": "6phjC8JVoUxeRcuPEGrbYq"
+  },
+  {
+  "song_id": "12673",
+  "song_name": "Disco Nights (Rock-Freak)",
+  "artist_id": "276238",
+  "display_artist": "G.Q.",
+  "spotify_id": null
+  },
+  {
+  "song_id": "12699",
+  "song_name": "Old Time Rock & Roll",
+  "artist_id": "293818",
+  "display_artist": "Bob Seger & The Silver Bullet Band",
+  "spotify_id": null
+  },
+  {
+  "song_id": "12795",
+  "song_name": "Rock Me",
+  "artist_id": "312240",
+  "display_artist": "Nick Gilder",
+  "spotify_id": "5Ve6L2r5G1JuyjuMnSlyhj"
+  },
+  {
+  "song_id": "12813",
+  "song_name": "Long Live Rock",
+  "artist_id": "419428",
+  "display_artist": "The Who",
+  "spotify_id": "0uOmJJ0N26xs21bAJzoY27"
+  },
+  {
+  "song_id": "12851",
+  "song_name": "Rock And Roll Dancin'",
+  "artist_id": null,
+  "display_artist": "Beckmeier Brothers",
+  "spotify_id": null
+  },
+  {
+  "song_id": "12857",
+  "song_name": "Rocky II Disco",
+  "artist_id": "310233",
+  "display_artist": "Maynard Ferguson",
+  "spotify_id": null
+  },
+  {
+  "song_id": "12967",
+  "song_name": "It's A Disco Night (Rock Don't Stop)",
+  "artist_id": "416425",
+  "display_artist": "The Isley Brothers",
+  "spotify_id": "2V6Yz1T1H51ASz9qQdsFwE"
+  },
+  {
+  "song_id": "12978",
+  "song_name": "Rock With You",
+  "artist_id": "310778",
+  "display_artist": "Michael Jackson",
+  "spotify_id": "5R3LdtAeVTJMERuaccngRD"
+  },
+  {
+  "song_id": "12988",
+  "song_name": "I Do The Rock",
+  "artist_id": "1540804",
+  "display_artist": "Tim Curry",
+  "spotify_id": null
+  },
+  {
+  "song_id": "13084",
+  "song_name": "Rockin' Into The Night",
+  "artist_id": null,
+  "display_artist": "38 Special",
+  "spotify_id": "5s9a6CUATfBVq57wn0fy8m"
+  },
+  {
+  "song_id": "13099",
+  "song_name": "I Like To Rock",
+  "artist_id": "279805",
+  "display_artist": "April Wine",
+  "spotify_id": "17sn00z8VEiRJuW6eJrlSq"
+  },
+  {
+  "song_id": "13153",
+  "song_name": "Bounce, Rock, Skate, Roll Pt. 1",
+  "artist_id": null,
+  "display_artist": "Vaughan Mason And Crew",
+  "spotify_id": null
+  },
+  {
+  "song_id": "13193",
+  "song_name": "Rock Lobster",
+  "artist_id": "1493301",
+  "display_artist": "The B-52s",
+  "spotify_id": "3Q9GwhaHbC4EI0hfgg49lu"
+  },
+  {
+  "song_id": "13235",
+  "song_name": "It's Still Rock And Roll To Me",
+  "artist_id": "284376",
+  "display_artist": "Billy Joel",
+  "spotify_id": "7LbOQt7isddrw3Bs3Czl7E"
+  },
+  {
+  "song_id": "13241",
+  "song_name": "And The Cradle Will Rock...",
+  "artist_id": "277707",
+  "display_artist": "Van Halen",
+  "spotify_id": "0xm49v9jgCCVeLcAQyYTSX"
+  },
+  {
+  "song_id": "13332",
+  "song_name": "Rock It",
+  "artist_id": "307450",
+  "display_artist": "Lipps, Inc.",
+  "spotify_id": "05370ru5yCdoZ5uOMqfH0D"
+  },
+  {
+  "song_id": "13364",
+  "song_name": "Midnight Rocks",
+  "artist_id": "278290",
+  "display_artist": "Al Stewart",
+  "spotify_id": "2ceT1HEgJ1aoA3AkBAhqYN"
+  },
+  {
+  "song_id": "13433",
+  "song_name": "Love On The Rocks",
+  "artist_id": "312095",
+  "display_artist": "Neil Diamond",
+  "spotify_id": "4BwgExU3hrIhmnI9XJZHYz"
+  },
+  {
+  "song_id": "13502",
+  "song_name": "Got To Rock On",
+  "artist_id": "1493092",
+  "display_artist": "Kansas",
+  "spotify_id": "3s0ERU20IfT6SKgIOTioxC"
+  },
+  {
+  "song_id": "13665",
+  "song_name": "Rock And Roll Dreams Come Through",
+  "artist_id": "304647",
+  "display_artist": "Jim Steinman",
+  "spotify_id": "5Y7JlzuX1CtyEl8qf58qeU"
+  },
+  {
+  "song_id": "13806",
+  "song_name": "Let's Put The Fun Back In Rock N Roll",
+  "artist_id": "302457",
+  "display_artist": "Freddy Cannon & The Belmonts",
+  "spotify_id": null
+  },
+  {
+  "song_id": "13904",
+  "song_name": "Love Is Like A Rock",
+  "artist_id": "301183",
+  "display_artist": "Donnie Iris",
+  "spotify_id": "6GMyxGEdbHl2Wj8s32LWC6"
+  },
+  {
+  "song_id": "13946",
+  "song_name": "I Love Rock 'N Roll",
+  "artist_id": "304757",
+  "display_artist": "Joan Jett And The Blackhearts",
+  "spotify_id": "7vTykJRGfNjuGmJvrDMbhq"
+  },
+  {
+  "song_id": "14151",
+  "song_name": "Planet Rock",
+  "artist_id": "278109",
+  "display_artist": "Afrika Bambaataa & The Soul Sonic Force",
+  "spotify_id": "5ZSDLOVEhZlvqcI6ELAT44"
+  },
+  {
+  "song_id": "14229",
+  "song_name": "Rock This Town",
+  "artist_id": "280839",
+  "display_artist": "Stray Cats",
+  "spotify_id": "4jRWsQp0nJZsQ9EbjEO82g"
+  },
+  {
+  "song_id": "14248",
+  "song_name": "Rock The Casbah",
+  "artist_id": "394493",
+  "display_artist": "The Clash",
+  "spotify_id": "6rL4PYIVHyMIYo9xvGc5ot"
+  },
+  {
+  "song_id": "14368",
+  "song_name": "I've Got A Rock N' Roll Heart",
+  "artist_id": "301809",
+  "display_artist": "Eric Clapton",
+  "spotify_id": "0pEu81PfEP0L9u4iTY5zvI"
+  },
+  {
+  "song_id": "14530",
+  "song_name": "Rock Of Ages",
+  "artist_id": "300687",
+  "display_artist": "Def Leppard",
+  "spotify_id": "0zOUO2Cbz0C1F8qbrebIxn"
+  },
+  {
+  "song_id": "14531",
+  "song_name": "Solid Rock",
+  "artist_id": "302965",
+  "display_artist": "Goanna",
+  "spotify_id": null
+  },
+  {
+  "song_id": "14544",
+  "song_name": "Rock 'n' Roll Is King",
+  "artist_id": "301591",
+  "display_artist": "Electric Light Orchestra",
+  "spotify_id": "6sMfdSg7arASraGInAyvU5"
+  },
+  {
+  "song_id": "14642",
+  "song_name": "Rockit",
+  "artist_id": "303462",
+  "display_artist": "Herbie Hancock",
+  "spotify_id": "2imFIZ1WcOHrA5IPFhVLJY"
+  },
+  {
+  "song_id": "14766",
+  "song_name": "(You Can Still) Rock In America",
+  "artist_id": "312292",
+  "display_artist": "Night Ranger",
+  "spotify_id": "2Vx6ffvKo3MusZks45niax"
+  },
+  {
+  "song_id": "14808",
+  "song_name": "For A Rocker",
+  "artist_id": "304006",
+  "display_artist": "Jackson Browne",
+  "spotify_id": "76Inmt7MZhUrPnDcoRcRjm"
+  },
+  {
+  "song_id": "14897",
+  "song_name": "Rock You Like A Hurricane",
+  "artist_id": "278407",
+  "display_artist": "Scorpions",
+  "spotify_id": "46QazXxQS0B31CnbRCy8CV"
+  },
+  {
+  "song_id": "14924",
+  "song_name": "The Heart Of Rock & Roll",
+  "artist_id": "303679",
+  "display_artist": "Huey Lewis & The News",
+  "spotify_id": "02B7SoMf8FmdWJdZTqpnWF"
+  },
+  {
+  "song_id": "15002",
+  "song_name": "Young Thing, Wild Dreams (Rock Me)",
+  "artist_id": "364776",
+  "display_artist": "Red Rider",
+  "spotify_id": "529PsUjf4jXDWHk957tarb"
+  },
+  {
+  "song_id": "15020",
+  "song_name": "Rock Me Tonite",
+  "artist_id": "285043",
+  "display_artist": "Billy Squier",
+  "spotify_id": "76zNJvuD3JtuiaWH0OdrWM"
+  },
+  {
+  "song_id": "15095",
+  "song_name": "Body Rock",
+  "artist_id": "309372",
+  "display_artist": "Maria Vidal",
+  "spotify_id": "0Vw9dU92bdHAZlmwzrdmQ2"
+  },
+  {
+  "song_id": "15143",
+  "song_name": "I Wanna Rock",
+  "artist_id": "430590",
+  "display_artist": "Twisted Sister",
+  "spotify_id": "7zLC4HAY11GvvKsZHNrkAp"
+  },
+  {
+  "song_id": "15234",
+  "song_name": "Rockin  At Midnight",
+  "artist_id": "414527",
+  "display_artist": "The Honeydrippers",
+  "spotify_id": "2KRL3DGRNhiKDQQA50MLS6"
+  },
+  {
+  "song_id": "15278",
+  "song_name": "If I Had A Rocket Launcher",
+  "artist_id": "298437",
+  "display_artist": "Bruce Cockburn",
+  "spotify_id": "3gpItRFVOiyxhxLB6I3lPT"
+  },
+  {
+  "song_id": "15311",
+  "song_name": "Rock And Roll Girls",
+  "artist_id": "304939",
+  "display_artist": "John Fogerty",
+  "spotify_id": "6C6n0nxFsuqFUvWsZLgVb0"
+  },
+  {
+  "song_id": "15402",
+  "song_name": "Rock Me Tonight",
+  "artist_id": "302449",
+  "display_artist": "Freddie Jackson",
+  "spotify_id": "5khdtdMlbBjPIKDZ44yK5k"
+  },
+  {
+  "song_id": "15617",
+  "song_name": "I Knew The Bride (When She Use To Rock N  Roll)",
+  "artist_id": "312247",
+  "display_artist": "Nick Lowe",
+  "spotify_id": null
+  },
+  {
+  "song_id": "15663",
+  "song_name": "R.O.C.K. In The U.S.A. (A Salute to 60 s Rock)",
+  "artist_id": "304981",
+  "display_artist": "John Mellencamp",
+  "spotify_id": null
+  },
+  {
+  "song_id": "15672",
+  "song_name": "Rock Me Amadeus",
+  "artist_id": "276169",
+  "display_artist": "Falco",
+  "spotify_id": "1Hs3XZxhdpHrOyiZBB4kEK"
+  },
+  {
+  "song_id": "15734",
+  "song_name": "Love And Rock And Roll",
+  "artist_id": "303127",
+  "display_artist": "Greg Kihn",
+  "spotify_id": null
+  },
+  {
+  "song_id": "15793",
+  "song_name": "Like A Rock",
+  "artist_id": "293790",
+  "display_artist": "Bob Seger",
+  "spotify_id": null
+  },
+  {
+  "song_id": "15838",
+  "song_name": "Rock N Roll To The Rescue",
+  "artist_id": "383448",
+  "display_artist": "The Beach Boys",
+  "spotify_id": null
+  },
+  {
+  "song_id": "16182",
+  "song_name": "Rock The Night",
+  "artist_id": "301928",
+  "display_artist": "Europe",
+  "spotify_id": "3J9NEWkd9Cx1MwSSvDySkL"
+  },
+  {
+  "song_id": "16219",
+  "song_name": "Rock Steady",
+  "artist_id": "419420",
+  "display_artist": "The Whispers",
+  "spotify_id": "4xGyNXNjL8tHkLJEqf2BRs"
+  },
+  {
+  "song_id": "16242",
+  "song_name": "Rock-A-Lott",
+  "artist_id": "279868",
+  "display_artist": "Aretha Franklin",
+  "spotify_id": "6qaLak7kfRq0fNS4ZJ1f33"
+  },
+  {
+  "song_id": "16311",
+  "song_name": "Rock Me",
+  "artist_id": "303103",
+  "display_artist": "Great White",
+  "spotify_id": "5RK9Q1vogXWI60qVGDzTZA"
+  },
+  {
+  "song_id": "16499",
+  "song_name": "Rocket 2 U",
+  "artist_id": "1540593",
+  "display_artist": "The Jets",
+  "spotify_id": "6EAlodKHBI1HxpSozNegwv"
+  },
+  {
+  "song_id": "16518",
+  "song_name": "Rock Of Life",
+  "artist_id": "365034",
+  "display_artist": "Rick Springfield",
+  "spotify_id": "73hyTd7EOZHnxDNjCFUVav"
+  },
+  {
+  "song_id": "16851",
+  "song_name": "Rock",
+  "artist_id": null,
+  "display_artist": "Thirty Eight Special",
+  "spotify_id": null
+  },
+  {
+  "song_id": "16972",
+  "song_name": "Rocket",
+  "artist_id": "300687",
+  "display_artist": "Def Leppard",
+  "spotify_id": "1xUM9SkxhwpCdovYSEe4Ur"
+  },
+  {
+  "song_id": "16990",
+  "song_name": "Rock On (From \"Dream A Little Dream\")",
+  "artist_id": "310744",
+  "display_artist": "Michael Damian",
+  "spotify_id": "6e3O5XkMEhMAatdKnOlZPh"
+  },
+  {
+  "song_id": "17050",
+  "song_name": "(Between A) Rock And A Hard Place",
+  "artist_id": "299867",
+  "display_artist": "Cutting Crew",
+  "spotify_id": "2KxYID9maMVJaGnvGu6Iso"
+  },
+  {
+  "song_id": "17157",
+  "song_name": "Rock Wit cha",
+  "artist_id": "294398",
+  "display_artist": "Bobby Brown",
+  "spotify_id": "7BVMXNnQSswMX8IJeZUb5T"
+  },
+  {
+  "song_id": "17238",
+  "song_name": "Rock And A Hard Place",
+  "artist_id": "419005",
+  "display_artist": "The Rolling Stones",
+  "spotify_id": "3ZaI4cFKRd6yEWlnNYHFK3"
+  },
+  {
+  "song_id": "17590",
+  "song_name": "Love Is A Rock",
+  "artist_id": "277284",
+  "display_artist": "REO Speedwagon",
+  "spotify_id": "5e9ZP2tIT6Isnq4Rwjyhav"
+  },
+  {
+  "song_id": "17634",
+  "song_name": "Rockin  Over The Beat",
+  "artist_id": "371857",
+  "display_artist": "Technotronic",
+  "spotify_id": "5xuktWMVGM0OcOOO39zILo"
+  },
+  {
+  "song_id": "17733",
+  "song_name": "Call It Rock N  Roll",
+  "artist_id": "303103",
+  "display_artist": "Great White",
+  "spotify_id": null
+  },
+  {
+  "song_id": "18146",
+  "song_name": "I Wanna Rock",
+  "artist_id": "1496787",
+  "display_artist": "Luke",
+  "spotify_id": "3YmS5ITTCwe2OS52ASXyAy"
+  },
+  {
+  "song_id": "18150",
+  "song_name": "We Will Rock You",
+  "artist_id": "277834",
+  "display_artist": "Warrant",
+  "spotify_id": "1Jq1355GLFkIPYHIxZFn69"
+  },
+  {
+  "song_id": "18166",
+  "song_name": "Let s Get Rocked",
+  "artist_id": "300687",
+  "display_artist": "Def Leppard",
+  "spotify_id": "223kkcMeZ8v5VwzJDkaPR0"
+  },
+  {
+  "song_id": "18405",
+  "song_name": "Shamrocks And Shenanigans (Boom Shalock Lock Boom)",
+  "artist_id": "303640",
+  "display_artist": "House Of Pain",
+  "spotify_id": null
+  },
+  {
+  "song_id": "18597",
+  "song_name": "What s Up Doc? (Can We Rock)",
+  "artist_id": null,
+  "display_artist": "Fu-Schnickens W/ Shaquille O Neal",
+  "spotify_id": null
+  },
+  {
+  "song_id": "18610",
+  "song_name": "Chief Rocka",
+  "artist_id": "307872",
+  "display_artist": "Lords Of The Underground",
+  "spotify_id": "34MRi5GRWHFUa731JBxFEl"
+  },
+  {
+  "song_id": "18772",
+  "song_name": "Rock With You",
+  "artist_id": "303823",
+  "display_artist": "Inner Circle",
+  "spotify_id": null
+  },
+  {
+  "song_id": "18811",
+  "song_name": "Rock And Roll Dreams Come Through",
+  "artist_id": "310320",
+  "display_artist": "Meat Loaf",
+  "spotify_id": "452fSzvkB2A8FHVI4JKK2S"
+  },
+  {
+  "song_id": "18854",
+  "song_name": "Rock My World (Little Country Girl)",
+  "artist_id": null,
+  "display_artist": "Brooks",
+  "spotify_id": "1fe09crBtSIpU12St9WGPQ"
+  },
+  {
+  "song_id": "19030",
+  "song_name": "Third Rock From The Sun",
+  "artist_id": "304804",
+  "display_artist": "Joe Diffie",
+  "spotify_id": "3ZDAji8dqywI3s9zJSRDmG"
+  },
+  {
+  "song_id": "19400",
+  "song_name": "Rock And Roll Is Dead",
+  "artist_id": "306952",
+  "display_artist": "Lenny Kravitz",
+  "spotify_id": "615xWgkKMMvn2vDV1vVu92"
+  },
+  {
+  "song_id": "19444",
+  "song_name": "Rock Steady",
+  "artist_id": null,
+  "display_artist": "Bonnie Raitt With Bryan Adams",
+  "spotify_id": "6QTzhcDkKupkvztUgGZooF"
+  },
+  {
+  "song_id": "19757",
+  "song_name": "Cold Rock A Party",
+  "artist_id": "276854",
+  "display_artist": "MC Lyte",
+  "spotify_id": "4LX1UlvBCZhwVMFeM2kSgA"
+  },
+  {
+  "song_id": "20398",
+  "song_name": "The Rockafeller Skank",
+  "artist_id": "302028",
+  "display_artist": "Fatboy Slim",
+  "spotify_id": "5vfhsKmvC0QxbAWbn4AhPZ"
+  },
+  {
+  "song_id": "20467",
+  "song_name": "A Little Past Little Rock",
+  "artist_id": "306816",
+  "display_artist": "Lee Ann Womack",
+  "spotify_id": "0ieL9hQJOHdlnyeOoBv768"
+  },
+  {
+  "song_id": "21443",
+  "song_name": "The Rock Show",
+  "artist_id": "298592",
+  "display_artist": "Blink-182",
+  "spotify_id": "797BTM0lyTWh1Bpmg5UzFC"
+  },
+  {
+  "song_id": "21475",
+  "song_name": "You Rock My World",
+  "artist_id": "310778",
+  "display_artist": "Michael Jackson",
+  "spotify_id": "1XDtOKKCOGcBKtDlzjBkks"
+  },
+  {
+  "song_id": "21476",
+  "song_name": "Rock The Boat",
+  "artist_id": "275352",
+  "display_artist": "Aaliyah",
+  "spotify_id": "3Q6qrj7HIgu9fxhHBkfmdi"
+  },
+  {
+  "song_id": "21800",
+  "song_name": "Rock The Party",
+  "artist_id": "281368",
+  "display_artist": "Benzino",
+  "spotify_id": "0yORE7Aw2erLpuYlws1SJJ"
+  },
+  {
+  "song_id": "21925",
+  "song_name": "Rock You Baby",
+  "artist_id": "430048",
+  "display_artist": "Toby Keith",
+  "spotify_id": "1hDyukwpyJ9H5QBZoIs0Dm"
+  },
+  {
+  "song_id": "21928",
+  "song_name": "Rock Your Body",
+  "artist_id": "1490153",
+  "display_artist": "Justin Timberlake",
+  "spotify_id": "1AWQoqb9bSvzTjaLralEkT"
+  },
+  {
+  "song_id": "21984",
+  "song_name": "Rock Wit U (Awww Baby)",
+  "artist_id": "280057",
+  "display_artist": "Ashanti",
+  "spotify_id": "6pWzCKTrKrwbUPzY8RLCoP"
+  },
+  {
+  "song_id": "22695",
+  "song_name": "Welcome To Jamrock",
+  "artist_id": null,
+  "display_artist": "Damian \"Jr. Gong\" Marley",
+  "spotify_id": "2e5Vm6VvdlTzuNcRSikeU6"
+  },
+  {
+  "song_id": "22846",
+  "song_name": "Lean Wit It, Rock Wit It",
+  "artist_id": "300740",
+  "display_artist": "Dem Franchize Boyz Featuring Lil Peanut & Charlay",
+  "spotify_id": "0YsNWdVVmu2fTq8iRNIePT"
+  },
+  {
+  "song_id": "23123",
+  "song_name": "Rockstar",
+  "artist_id": "312256",
+  "display_artist": "Nickelback",
+  "spotify_id": "6n9yCXvLhnYMgJIiIcMu7D"
+  },
+  {
+  "song_id": "23265",
+  "song_name": "Rock Yo Hips",
+  "artist_id": "299759",
+  "display_artist": "Crime Mob Featuring Lil Scrappy",
+  "spotify_id": "2FCrjpcEh2cMrqPWD5SNxp"
+  },
+  {
+  "song_id": "23336",
+  "song_name": "Party Like A Rockstar",
+  "artist_id": "279185",
+  "display_artist": "Shop Boyz",
+  "spotify_id": "6hNbnqbFlKjQJsff466Gf7"
+  },
+  {
+  "song_id": "23358",
+  "song_name": "Do It Just Like A Rockstar",
+  "artist_id": null,
+  "display_artist": "Freak Nasty Featuring Crazy Mike",
+  "spotify_id": null
+  },
+  {
+  "song_id": "23615",
+  "song_name": "Rock Star",
+  "artist_id": "276390",
+  "display_artist": "Hannah Montana",
+  "spotify_id": "7smCjIc7MoUM4ay55LQrdu"
+  },
+  {
+  "song_id": "23778",
+  "song_name": "We Rock",
+  "artist_id": null,
+  "display_artist": "Cast Of Camp Rock",
+  "spotify_id": "7r6ubHsaieaig4kORmmsDy"
+  },
+  {
+  "song_id": "23850",
+  "song_name": "Let It Rock",
+  "artist_id": "305797",
+  "display_artist": "Kevin Rudolf Featuring Lil Wayne",
+  "spotify_id": "2vVc2G9w2JteBgxpSUVwX5"
+  },
+  {
+  "song_id": "23993",
+  "song_name": "Rockin' That Thang",
+  "artist_id": "419475",
+  "display_artist": "The-Dream",
+  "spotify_id": "3oJJ1dQBxiFYGMQSe2SluG"
+  },
+  {
+  "song_id": "24385",
+  "song_name": "Bedrock",
+  "artist_id": "431686",
+  "display_artist": "Young Money Featuring Lloyd",
+  "spotify_id": "3iL2l5gUqyPS6vDwJFgJTR"
+  },
+  {
+  "song_id": "24417",
+  "song_name": "I Wanna Rock",
+  "artist_id": "279664",
+  "display_artist": "Snoop Dogg",
+  "spotify_id": "3BxwPsZI8t3OArt0Yzh8rZ"
+  },
+  {
+  "song_id": "24422",
+  "song_name": "BedRock",
+  "artist_id": "431686",
+  "display_artist": "Young Money Featuring Lloyd",
+  "spotify_id": "3iL2l5gUqyPS6vDwJFgJTR"
+  },
+  {
+  "song_id": "24560",
+  "song_name": "Rock That Body",
+  "artist_id": "385091",
+  "display_artist": "The Black Eyed Peas",
+  "spotify_id": "5K5LbSTVuKKe1KGMNfBgIW"
+  },
+  {
+  "song_id": "24697",
+  "song_name": "Rockstar 101",
+  "artist_id": "365068",
+  "display_artist": "Rihanna Featuring Slash",
+  "spotify_id": "5rXDTihGQ3TkYE3pmraAmH"
+  },
+  {
+  "song_id": "24865",
+  "song_name": "Pretty Girl Rock",
+  "artist_id": "305751",
+  "display_artist": "Keri Hilson",
+  "spotify_id": "2Adn2LNgkHMH5TelQVAu4n"
+  },
+  {
+  "song_id": "24882",
+  "song_name": "Rocketeer",
+  "artist_id": null,
+  "display_artist": "Far*East Movement Featuring Ryan Tedder",
+  "spotify_id": null
+  },
+  {
+  "song_id": "24922",
+  "song_name": "Party Rock Anthem",
+  "artist_id": "276754",
+  "display_artist": "LMFAO Featuring Lauren Bennett & GoonRock",
+  "spotify_id": "70dWrqAp30TmWeibQkn0i7"
+  },
+  {
+  "song_id": "25408",
+  "song_name": "Sorry For Party Rocking",
+  "artist_id": "276754",
+  "display_artist": "LMFAO",
+  "spotify_id": "48kwdkeHEJEuMzcKklPv5b"
+  },
+  {
+  "song_id": "25488",
+  "song_name": "Feel Like A Rock Star",
+  "artist_id": null,
+  "display_artist": "Kenny Chesney & Tim McGraw",
+  "spotify_id": "6IwjYtPMOebrz61UEayrrS"
+  },
+  {
+  "song_id": "25750",
+  "song_name": "Rock Me",
+  "artist_id": "314021",
+  "display_artist": "One Direction",
+  "spotify_id": "7MbII8jWqFiTFYU3MPYEfW"
+  },
+  {
+  "song_id": "25994",
+  "song_name": "Rock N Roll",
+  "artist_id": "280342",
+  "display_artist": "Avril Lavigne",
+  "spotify_id": "64iuGgGJgnk0mX3tyChce5"
+  },
+  {
+  "song_id": "27200",
+  "song_name": "Rock On",
+  "artist_id": "7258399",
+  "display_artist": "Tucker Beathard",
+  "spotify_id": "4plhHbrWLbmIDCLiqesqdq"
+  }
+  ]
